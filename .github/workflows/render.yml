@@ -29,6 +29,11 @@ jobs:
           tar -xzf piper.tar.gz
           curl -L -o voice.onnx https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/medium/en_US-amy-medium.onnx
           curl -L -o voice.onnx.json https://huggingface.co/rhasspy/piper-voices/resolve/main/en/en_US/amy/medium/en_US-amy-medium.onnx.json
+          
+      - name: Generate narration audio
+        run: |
+          npm install --no-save ts-node typescript
+          node -r ts-node/register/transpile-only scripts/generate-narration.js
       - name: Render video
         run: npx remotion render src/index.ts CountingShorts out/video.mp4
 
