@@ -1,5 +1,5 @@
 import React from "react";
-import { Sequence, AbsoluteFill, useCurrentFrame, interpolate } from "remotion";
+import { Sequence, AbsoluteFill, useCurrentFrame, interpolate, Audio, staticFile } from "remotion";
 import { numbersData, FRAMES_PER_NUMBER } from "./data";
 import { NumberShape } from "./NumberShape";
 
@@ -95,6 +95,7 @@ export const CountingShorts: React.FC = () => {
           durationInFrames={FRAMES_PER_NUMBER}
         >
           <NumberShape item={item} />
+          <Audio src={staticFile(`audio/number-${item.value}.wav`)} />
         </Sequence>
       ))}
 
