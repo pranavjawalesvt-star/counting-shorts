@@ -33,7 +33,7 @@ jobs:
       - name: Generate narration audio
         run: |
           npm install --no-save ts-node typescript
-          node -r ts-node/register/transpile-only scripts/generate-narration.js
+          node -r ts-node/register/transpile-only src/scripts/generate-narration.js
       - name: Render video
         run: npx remotion render src/index.ts CountingShorts out/video.mp4
 
