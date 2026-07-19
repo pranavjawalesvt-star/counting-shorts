@@ -45,6 +45,8 @@ const req = https.request(options, (res) => {
     const colors = ["#FF6B6B", "#FFD93D", "#6BCB77", "#4D96FF", "#B983FF", "#FF922B", "#20C997", "#F06595", "#845EF7", "#15AABF"];
 
     const fileContent = `// Auto-generated before each render. Theme: ${theme}
+export const FRAMES_PER_NUMBER = 90;
+
 export type NumberItem = {
   value: number;
   label: string;
