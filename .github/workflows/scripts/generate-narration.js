@@ -1,9 +1,9 @@
 const { execSync } = require("child_process");
 const fs = require("fs");
 const path = require("path");
-const { numbersData } = require("../src/data.ts");
+const { numbersData } = require("../../../src/data.ts");
 
-const outDir = path.join(__dirname, "..", "public", "audio");
+const outDir = path.join(__dirname, "..", "..", "..", "public", "audio");
 fs.mkdirSync(outDir, { recursive: true });
 
 numbersData.forEach((item) => {
