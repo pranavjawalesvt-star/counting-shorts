@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing facts about the human body
+// Auto-generated before each render. Theme: cool facts about dinosaurs
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Brain weighs 2 pounds",
+    "label": "Dinos were huge",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Eyes see 1 million",
+    "label": "T-Rex was king",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Nose smells 1 trillion",
+    "label": "Stegos had plates",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Tongue tastes 5 types",
+    "label": "Tricera had horns",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Ears hear 40 sounds",
+    "label": "Veloc were fast",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Skin regrows daily",
+    "label": "Diplod had spikes",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Heart beats 100k times",
+    "label": "Raptors were smart",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Lungs breathe 20k times",
+    "label": "Spinos had sail",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Stomach digests 4 pounds",
+    "label": "Carchar had teeth",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Liver cleans 1 liter",
+    "label": "Pteros could fly",
     "color": "#15AABF"
   }
 ];
