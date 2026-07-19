@@ -46,6 +46,9 @@ const req = https.request(options, (res) => {
 
     const fileContent = `// Auto-generated before each render. Theme: ${theme}
 export const FRAMES_PER_NUMBER = 90;
+export const FPS = 30;
+export const VIDEO_WIDTH = 1080;
+export const VIDEO_HEIGHT = 1920;
 
 export type NumberItem = {
   value: number;
