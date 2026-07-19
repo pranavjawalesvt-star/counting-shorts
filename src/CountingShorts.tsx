@@ -84,6 +84,7 @@ const Outro: React.FC = () => {
 export const CountingShorts: React.FC = () => {
   return (
     <AbsoluteFill style={{ backgroundColor: "#111827" }}>
+      <Audio src={staticFile("music/grand_project-wonders-of-the-earth-550792.mp3")} volume={0.15} loop />
       <Sequence from={0} durationInFrames={INTRO_FRAMES}>
         <Intro />
       </Sequence>
