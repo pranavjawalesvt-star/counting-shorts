@@ -1,5 +1,6 @@
 name: Render Counting Short
-
+permissions:
+  contents: write
 on:
   push:
     branches: [main]
