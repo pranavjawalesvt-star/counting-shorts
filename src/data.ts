@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Dinos were huge",
+    "label": "Dino brains small",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "T-Rex was king",
+    "label": "T-Rex huge teeth",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Stegos had plates",
+    "label": "Tricera shield strong",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Tricera had horns",
+    "label": "Diplodok long neck",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Veloc were fast",
+    "label": "Stegosa plates sharp",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Diplod had spikes",
+    "label": "Veloci fast runner",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Raptors were smart",
+    "label": "Spino sail big",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Spinos had sail",
+    "label": "Raptor sharp claws",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Carchar had teeth",
+    "label": "Ptera flies high",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Pteros could fly",
+    "label": "Dino roar loud",
     "color": "#15AABF"
   }
 ];
