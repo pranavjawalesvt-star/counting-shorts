@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: cool facts about dinosaurs
+// Auto-generated before each render. Theme: fascinating space facts
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Dino brains small",
+    "label": "Stars are huge balls",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "T-Rex huge teeth",
+    "label": "Planets spin fast",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Tricera shield strong",
+    "label": "Galaxies are vast",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Diplodok long neck",
+    "label": "Comets are icy",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Stegosa plates sharp",
+    "label": "Mars is red",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Veloci fast runner",
+    "label": "Asteroids are small",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Spino sail big",
+    "label": "Black holes exist",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Raptor sharp claws",
+    "label": "Space is dark",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Ptera flies high",
+    "label": "Rockets fly high",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Dino roar loud",
+    "label": "Aliens are unknown",
     "color": "#15AABF"
   }
 ];
