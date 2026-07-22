@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: fascinating space facts
+// Auto-generated before each render. Theme: amazing facts about the human body
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Stars are huge balls",
+    "label": "Bones heal fast",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Planets spin fast",
+    "label": "Eyes blink quick",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Galaxies are vast",
+    "label": "Heart beats strong",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Comets are icy",
+    "label": "Brain thinks deep",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Mars is red",
+    "label": "Lungs breathe easy",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Asteroids are small",
+    "label": "Skin regrows fast",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Black holes exist",
+    "label": "Stomach digests food",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Space is dark",
+    "label": "Muscles move quick",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Rockets fly high",
+    "label": "Teeth grow strong",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Aliens are unknown",
+    "label": "Nerves react sharp",
     "color": "#15AABF"
   }
 ];
