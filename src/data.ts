@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Bones start as cartilage",
+    "label": "Brain uses 20% energy",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Brain has 100b neurons",
+    "label": "Heart beats 3 billion times",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Heart beats 3b times",
+    "label": "Eyes see 10 million colors",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Eyes see 10m colors",
+    "label": "Lungs breathe 20k times daily",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": " Liver regrows fast",
+    "label": "Liver regenerates itself fully",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Nose smells 1 trillion",
+    "label": "Stomach digests metal slowly",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Skin regenerates daily",
+    "label": "Kidneys filter 200 liters",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Stomach dissolves metal",
+    "label": "Nose smells 1 trillion scents",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Tongue tastes 5 things",
+    "label": "Tongue tastes 5 flavors",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Nails grow 0.1mm",
+    "label": "Skin regrows every 2 weeks",
     "color": "#15AABF"
   }
 ];
