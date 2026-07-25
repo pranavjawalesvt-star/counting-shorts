@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing facts about the human body
+// Auto-generated before each render. Theme: incredible facts about ancient Egypt
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Brain uses 20% energy",
+    "label": "Mummies had golden tongues",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Heart beats 3 billion times",
+    "label": "Pyramids were built fast",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Eyes see 10 million colors",
+    "label": "Pharaohs were gods",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Lungs breathe 20k times daily",
+    "label": "Sphinx has secret chamber",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Liver regenerates itself fully",
+    "label": "Egyptians loved board games",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Stomach digests metal slowly",
+    "label": "Cats were sacred animals",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Kidneys filter 200 liters",
+    "label": "Hieroglyphs told stories",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Nose smells 1 trillion scents",
+    "label": "Temples had hidden rooms",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Tongue tastes 5 flavors",
+    "label": "Mummification took 70 days",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Skin regrows every 2 weeks",
+    "label": "Egyptians used eye makeup",
     "color": "#15AABF"
   }
 ];
