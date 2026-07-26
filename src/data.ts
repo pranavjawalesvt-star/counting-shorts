@@ -13,32 +13,32 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Mummies had golden tongues",
+    "label": "Mummies had golden masks",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Pyramids were built fast",
+    "label": "Pyramids were huge tombs",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Pharaohs were gods",
+    "label": "Pharaohs were living gods",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Sphinx has secret chamber",
+    "label": "Sphinx has lion body",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Egyptians loved board games",
+    "label": "Egyptians loved cats",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Cats were sacred animals",
+    "label": "Scarabs were lucky charms",
     "color": "#FF922B"
   },
   {
@@ -48,17 +48,17 @@ export const numbersData: NumberItem[] = [
   },
   {
     "value": 8,
-    "label": "Temples had hidden rooms",
+    "label": "Nile flooded annually",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Mummification took 70 days",
+    "label": "Mummies had treasures",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Egyptians used eye makeup",
+    "label": "Egypt was very old",
     "color": "#15AABF"
   }
 ];
