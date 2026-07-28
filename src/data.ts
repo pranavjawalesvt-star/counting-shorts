@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: fascinating space facts
+// Auto-generated before each render. Theme: amazing facts about the human body
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Stars are huge balls",
+    "label": "Heart beats 3 billion times",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Galaxies are vast",
+    "label": "Brain uses 20 energy",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Comets are icy",
+    "label": "Eyes see 10 million colors",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Black holes exist",
+    "label": "Nose smells 1 trillion scents",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Planets are round",
+    "label": "Tongue tastes 5 flavors",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Asteroids are rocky",
+    "label": "Ears hear 20 frequencies",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Mars is red",
+    "label": "Skin regrows daily",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Sun is hot",
+    "label": "Blood flows 12,000 miles",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Space is dark",
+    "label": "Lungs breathe 20,000 times",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Cosmos is vast",
+    "label": "Stomach digests 60,000 meals",
     "color": "#15AABF"
   }
 ];
