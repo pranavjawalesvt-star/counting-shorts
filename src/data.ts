@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: fascinating space facts
+// Auto-generated before each render. Theme: amazing ocean animals
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Stars are huge balls",
+    "label": "Dolphins are smart",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Space is very dark",
+    "label": "Whales are huge",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Planets are very old",
+    "label": "Jellyfish sting hurt",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Galaxies are moving fast",
+    "label": "Sharks have teeth",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Comets are icy bodies",
+    "label": "Turtles are slow",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Black holes suck everything",
+    "label": "Octopuses are sneaky",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Mars has big volcanoes",
+    "label": "Squid are fast",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Asteroids are rocky objects",
+    "label": "Clownfish are cute",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Metors are small rocks",
+    "label": "Seahorses are rare",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Space is very vast",
+    "label": "Coral is colorful",
     "color": "#15AABF"
   }
 ];
