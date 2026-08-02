@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: world's tallest mountains
+// Auto-generated before each render. Theme: fascinating space facts
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Mount Everest",
+    "label": "Stars are born",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Himalayas location",
+    "label": "Galaxy is vast",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "8849 meters",
+    "label": "Planets are round",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Tallest peak",
+    "label": "Comets are icy",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "K2 second",
+    "label": "Asteroids are rocky",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Kangchenjunga third",
+    "label": "Space is dark",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Lhotse fourth",
+    "label": "Mars is red",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Makalu fifth",
+    "label": "Sun is hot",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Cho Oyu",
+    "label": "Moon is small",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Tibet border",
+    "label": "Space is silent",
     "color": "#15AABF"
   }
 ];
