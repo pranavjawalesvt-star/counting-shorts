@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing facts about the human body
+// Auto-generated before each render. Theme: incredible facts about ancient Egypt
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Brain uses 20% energy",
+    "label": "Mummies had golden toes",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Heart beats 3 billion times",
+    "label": "Pyramids were built fast",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Eyes see 10 million colors",
+    "label": "Pharaohs wore wigs",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Lungs breathe 20,000 times daily",
+    "label": "Sphinx has secret room",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Nose detects 1 trillion scents",
+    "label": "Egyptians loved board games",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Tongue tastes 5 flavors",
+    "label": "Cats were sacred animals",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Skin regenerates daily",
+    "label": "Egyptians used makeup",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Stomach digests metal",
+    "label": "Tombs had hidden doors",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Liver filters 1 liter blood",
+    "label": "Scarabs were good luck",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Bones produce new cells",
+    "label": "Nile was life source",
     "color": "#15AABF"
   }
 ];
