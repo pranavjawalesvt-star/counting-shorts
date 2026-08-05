@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: incredible facts about ancient Egypt
+// Auto-generated before each render. Theme: cool facts about dinosaurs
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Mummies had golden toes",
+    "label": "Dinosaurs were huge",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Pyramids were built fast",
+    "label": "T-Rex was king",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Pharaohs wore wigs",
+    "label": "Stegosaurus had plates",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Sphinx has secret room",
+    "label": "Velociraptors were fast",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Egyptians loved board games",
+    "label": "Diplodocus was long",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Cats were sacred animals",
+    "label": "Triceratops had horns",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Egyptians used makeup",
+    "label": "Spinosaurus loved fish",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Tombs had hidden doors",
+    "label": "Cretaceous was last",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Scarabs were good luck",
+    "label": "Dinosaurs were reptiles",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Nile was life source",
+    "label": "Dinosaurs are extinct",
     "color": "#15AABF"
   }
 ];
