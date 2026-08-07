@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing ocean animals
+// Auto-generated before each render. Theme: cool facts about dinosaurs
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Dolphins are smart",
+    "label": "Dinos were huge",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Whales are huge",
+    "label": "T-Rex was king",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Jellyfish sting",
+    "label": "Stegos had plates",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Sharks have teeth",
+    "label": "Velociraptors were fast",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Octopuses are sneaky",
+    "label": "Diplodoks were long",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Squid are fast",
+    "label": "Tricera had horns",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Turtles are slow",
+    "label": "Dinos had feathers",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Clownfish are cute",
+    "label": "Spinos was sail",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Seahorses are rare",
+    "label": "Carchs had spikes",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Crabs have claws",
+    "label": "Pters could fly",
     "color": "#15AABF"
   }
 ];
