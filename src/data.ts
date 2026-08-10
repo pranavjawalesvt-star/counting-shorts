@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: world's tallest mountains
+// Auto-generated before each render. Theme: fascinating space facts
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Mount Everest is tallest",
+    "label": "Stars are huge balls",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "K2 is second tallest",
+    "label": "Planets spin fast",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Kangchenjunga is third",
+    "label": "Mars is red",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Lhotse is fourth",
+    "label": "Comets are icy",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Makalu is fifth",
+    "label": "Galaxies are vast",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Cho Oyu is sixth",
+    "label": "Space is dark",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Dhaulagiri is seventh",
+    "label": "Asteroids are rocky",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Manaslu is eighth",
+    "label": "Black holes suck",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Nanga is ninth",
+    "label": "Moon is small",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Annapurna is tenth",
+    "label": "Sun is hot",
     "color": "#15AABF"
   }
 ];
