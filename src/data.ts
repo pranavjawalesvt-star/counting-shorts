@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: fascinating space facts
+// Auto-generated before each render. Theme: world's tallest mountains
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Stars are huge balls",
+    "label": "Mt Everest is tallest",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Planets spin fast",
+    "label": "K2 is second tallest",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Mars is red",
+    "label": "Himalayas have tallest peaks",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Comets are icy",
+    "label": "Mountains touch space",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Galaxies are vast",
+    "label": "Tallest peaks frozen",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Space is dark",
+    "label": "Mt Everest is highest",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Asteroids are rocky",
+    "label": "Kangchenjunga is third",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Black holes suck",
+    "label": "Lhotse is fourth",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Moon is small",
+    "label": "Makalu is fifth",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Sun is hot",
+    "label": "Cho Oyu is sixth",
     "color": "#15AABF"
   }
 ];
