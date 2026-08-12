@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: world's tallest mountains
+// Auto-generated before each render. Theme: amazing ocean animals
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Mt Everest is tallest",
+    "label": "Dolphins are smart",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "K2 is second tallest",
+    "label": "Whales are huge",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Himalayas have tallest peaks",
+    "label": "Jellyfish sting",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Mountains touch space",
+    "label": "Sharks have teeth",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Tallest peaks frozen",
+    "label": "Octopuses are sneaky",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Mt Everest is highest",
+    "label": "Squids are fast",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Kangchenjunga is third",
+    "label": "Seals are cute",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Lhotse is fourth",
+    "label": "Turtles are old",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Makalu is fifth",
+    "label": "Fish are colorful",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Cho Oyu is sixth",
+    "label": "Crabs are tasty",
     "color": "#15AABF"
   }
 ];
