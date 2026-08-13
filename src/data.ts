@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing ocean animals
+// Auto-generated before each render. Theme: cool facts about dinosaurs
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Dolphins are smart",
+    "label": "Dinosaurs were huge",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Whales are huge",
+    "label": "T-Rex was king",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Jellyfish sting",
+    "label": "Triceratops had horns",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Sharks have teeth",
+    "label": "Stegosaurus had plates",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Octopuses are sneaky",
+    "label": "Velociraptors were fast",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Squids are fast",
+    "label": "Diplodocus was long",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Seals are cute",
+    "label": "Spinosaurus had sail",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Turtles are old",
+    "label": "Carcharodontosaurus was big",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Fish are colorful",
+    "label": "Pterosaurs could fly",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Crabs are tasty",
+    "label": "Dinosaurs are extinct",
     "color": "#15AABF"
   }
 ];
