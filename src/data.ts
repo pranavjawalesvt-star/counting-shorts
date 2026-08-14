@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: cool facts about dinosaurs
+// Auto-generated before each render. Theme: amazing facts about the human body
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Dinosaurs were huge",
+    "label": "Brain uses 20% energy",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "T-Rex was king",
+    "label": "Heart beats 3 billion times",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Triceratops had horns",
+    "label": "Eyes see 10 million colors",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Stegosaurus had plates",
+    "label": "Nose smells 1 trillion scents",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Velociraptors were fast",
+    "label": "Tongue tastes 5 flavors",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Diplodocus was long",
+    "label": "Skin regrows every 2 weeks",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Spinosaurus had sail",
+    "label": "Liver filters 1 liter blood",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Carcharodontosaurus was big",
+    "label": "Lungs breathe 20,000 times daily",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Pterosaurs could fly",
+    "label": "Stomach digests 5 liters food",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Dinosaurs are extinct",
+    "label": "Bones renew every 10 years",
     "color": "#15AABF"
   }
 ];
