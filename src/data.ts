@@ -13,7 +13,7 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Brain uses 20% energy",
+    "label": "Brain has 100 billion neurons",
     "color": "#FF6B6B"
   },
   {
@@ -33,32 +33,32 @@ export const numbersData: NumberItem[] = [
   },
   {
     "value": 5,
-    "label": "Tongue tastes 5 flavors",
+    "label": "Skin regenerates daily",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Skin regrows every 2 weeks",
+    "label": "Liver filters 1 liter blood",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Liver filters 1 liter blood",
+    "label": "Stomach digests metal",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Lungs breathe 20,000 times daily",
+    "label": "Tongue tastes 5 flavors",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Stomach digests 5 liters food",
+    "label": "Ears hear 20 pitches",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Bones renew every 10 years",
+    "label": "Muscles move 600 times",
     "color": "#15AABF"
   }
 ];
