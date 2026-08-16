@@ -1,4 +1,4 @@
-// Auto-generated before each render. Theme: amazing facts about the human body
+// Auto-generated before each render. Theme: world's tallest mountains
 export const FRAMES_PER_NUMBER = 90;
 export const FPS = 30;
 export const VIDEO_WIDTH = 1080;
@@ -13,52 +13,52 @@ export type NumberItem = {
 export const numbersData: NumberItem[] = [
   {
     "value": 1,
-    "label": "Brain has 100 billion neurons",
+    "label": "Everest is highest",
     "color": "#FF6B6B"
   },
   {
     "value": 2,
-    "label": "Heart beats 3 billion times",
+    "label": "K2 is second",
     "color": "#FFD93D"
   },
   {
     "value": 3,
-    "label": "Eyes see 10 million colors",
+    "label": "Matterhorn is iconic",
     "color": "#6BCB77"
   },
   {
     "value": 4,
-    "label": "Nose smells 1 trillion scents",
+    "label": "Denali is coldest",
     "color": "#4D96FF"
   },
   {
     "value": 5,
-    "label": "Skin regenerates daily",
+    "label": "Kilimanjaro is tallest",
     "color": "#B983FF"
   },
   {
     "value": 6,
-    "label": "Liver filters 1 liter blood",
+    "label": "Olympus is mythical",
     "color": "#FF922B"
   },
   {
     "value": 7,
-    "label": "Stomach digests metal",
+    "label": "Fuji is volcanic",
     "color": "#20C997"
   },
   {
     "value": 8,
-    "label": "Tongue tastes 5 flavors",
+    "label": "Blanc is snowy",
     "color": "#F06595"
   },
   {
     "value": 9,
-    "label": "Ears hear 20 pitches",
+    "label": "Elbrus is massive",
     "color": "#845EF7"
   },
   {
     "value": 10,
-    "label": "Muscles move 600 times",
+    "label": "Bald is rocky",
     "color": "#15AABF"
   }
 ];
